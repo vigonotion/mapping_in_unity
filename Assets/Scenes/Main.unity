@@ -1289,7 +1289,7 @@ MonoBehaviour:
   controller: {fileID: 309297446}
   speed: 12
   gravity: -19.62
-  jumpHeight: 6
+  jumpHeight: 3
   groundCheck: {fileID: 1440883992}
   groundDistance: 0.4
   groundMask:
