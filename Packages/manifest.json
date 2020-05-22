@@ -9,6 +9,7 @@
     }
   ],
   "dependencies": {
+    "jp.keijiro.klak.ndi": "0.2.4",
     "jp.keijiro.klak.spout": "1.0.0",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
